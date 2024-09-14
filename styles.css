@@ -5,10 +5,10 @@ li {
   margin-bottom: 10px;
   list-style-type: none;
 }
-.elvis {
-  background-image: url("elvis.jpg");
-  width: 1000px;
-  height: 555px;
+.bruno {
+  background-image: url("brimage.jpg");
+  width: 738px;
+  height: 642px;
   margin: auto;
 }
 .planets {
@@ -56,12 +56,13 @@ li {
   display: block;
 }
 
-.photo {
-  background-image: url("yong.jpg");
-  width: 1163px;
-  height: 622px;
+.arab {
+  background-image: url("arab.jpg");
+  width: 626px;
+  height: 417px;
+  margin-top: 50px;
 
-  margin-bottom: 50px;
+  margin-bottom: 10px;
 }
 .text {
   margin-top: 5px;
